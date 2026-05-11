@@ -14,14 +14,13 @@ Each script is self-contained and focused on a specific task or target. Scripts 
 
 1. Clone the whole repository (or you can just download the needed script):
 ```bash
-   git clone https://github.com/YOUR_USERNAME/PythonScripts.git
+   git clone https://github.com/0s-miro/PythonScripts.git
 ```
 2. Navigate to the script you want to run.
-3. View the help massage by running the script with no args :
-```bash
-   pip install -r requirements.txt
-```
-4. Change permisson to run it (or just use python to run it) :
+   
+3. View the help massage by running the script with no args. 
+
+5. Change permisson to run it (or just use python to run it) :
 ```bash
 chmod +x /PATH/TO/THE/SCRIPT.PY
 ```
@@ -49,4 +48,4 @@ Only use them on systems you own or have explicit permission to test.
 
 ## 👤 Author
 
-**YOUR_NAME** — [GitHub](https://github.com/YOUR_USERNAME)
+**Amir** — [GitHub](https://github.com/0x-miro/)
