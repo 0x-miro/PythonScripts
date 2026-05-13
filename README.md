@@ -14,7 +14,7 @@ Each script is self-contained and focused on a specific task or target. Scripts 
 
 1. Clone the whole repository (or you can just download the needed script):
 ```bash
-   git clone https://github.com/0x-miro/PythonScripts.git
+git clone https://github.com/0x-miro/PythonScripts.git
 ```
 2. Navigate to the script you want to run.
    
@@ -25,7 +25,7 @@ chmod +x ./script.py
 4. Run the script:
 either with the execution permission 
 ```bash
-    ./SCRIPT.PY
+./SCRIPT.PY
 ```
 or with the python3
 ```bash
